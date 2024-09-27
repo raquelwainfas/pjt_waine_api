@@ -4,8 +4,7 @@
 
 Esta API foi desenvolvida para facilitar a gestão de dados relacionados a vinhos tintos. Ela oferece endpoints que permitem a inclusão de novos registros, consulta e exclusão de vinhos. Além disso, a API possui funcionalidades para qualificar os vinhos com base nos dados físico-químicos fornecidos, ajudando os usuários a fazer escolhas mais informadas.
 
-Video de apresentação aqui: [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/Ec8KdOR48CA)
-
+Video de apresentação aqui: [![Assista o vídeo](https://github.com/user-attachments/assets/ced93836-0e8c-459a-bd38-2ab0a4264a5a)](https://youtu.be/Ec8KdOR48CA)
 ### As principais tecnologias que serão utilizadas aqui serão:
 
 - Flask
